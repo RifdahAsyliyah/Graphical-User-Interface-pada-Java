@@ -1,3 +1,8 @@
+## Nama: Rifdah Asyliyah
+## NIM: F1D02410090
+## Mata Kuliah: Pemrograman Berorientasi Objek (PBO)
+
+
 # CafeQueue – Self Order Cafe 
 
 **Your daily coffee, made better.**
